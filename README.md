@@ -37,7 +37,6 @@ pip install -r requirements.txt
 ### 3) Configure environment variables
 Create `.env` in project root:
 ```env
-GOOGLE_API_KEY=your_google_key
 FINNHUB_API_KEY=your_finnhub_key
 ```
 
